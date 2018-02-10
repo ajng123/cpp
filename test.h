@@ -5,6 +5,6 @@
 #ifndef CPP_TEST_H
 #define CPP_TEST_H
 
-test2()
+int test2();
 
 #endif //CPP_TEST_H
