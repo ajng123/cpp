@@ -8,3 +8,5 @@ add_executable(cpp test.cpp test.h test2.cpp)
 add_executable(3_1 3_1.cpp)
 
 add_executable(3_2 3_2.cpp)
+
+add_executable(hw4 hw4.cpp)
